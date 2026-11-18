@@ -1,0 +1,6 @@
+background-color: #0f172a;
+.title, color: #38bdf8;
+#0284c7
+border. pink
+font-size: 1.8rem
+border-radius
